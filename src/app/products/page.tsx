@@ -14,28 +14,28 @@ const products: Product[] = [
     name: 'Permetec Lotion',
     description: 'An effective solution for scabies treatment.',
     price: 10.99,
-    image: '/images/permetec_lotion_an_effective_solution_for_scabies.jpeg',
+    image: '/Images/permetec_lotion_an_effective_solution_for_scabies.jpeg',
   },
   {
     id: 2,
     name: 'F-Tec Antifungal Soap',
     description: 'A trusted antifungal soap for healthier skin.',
     price: 9.99,
-    image: '/images/f_tec_antifungal_soap_a_trusted_antifungal_soap.jpeg',
+    image: '/Images/f_tec_antifungal_soap_a_trusted_antifungal_soap.jpeg',
   },
   {
     id: 3,
     name: 'S-tec Lotion',
     description: 'An advanced antiscabies lotion formulated for effective treatment and relief.',
     price: 12.99,
-    image: '/images/s_tec_lotion.jpeg',
+    image: '/Images/s_tec_lotion.jpeg',
   },
   {
     id: 4,
     name: 'S-tec Soap',
     description: 'An antiscabies soap designed to provide a complete solution for skin protection.',
     price: 8.99,
-    image: '/images/s_tec_soap_and_lotion.jpeg',
+    image: '/Images/s_tec_soap_and_lotion.jpeg',
   },
 ];
 
