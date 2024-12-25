@@ -1,4 +1,5 @@
 import Image from 'next/image';
+import { Product } from '../types/product';
 
 interface Product {
   id: number;
